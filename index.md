@@ -4,4 +4,5 @@ title: Student Home
 description: Home page 
 Hide: true
 ---
-hello my name is tanay Ollalwta
+Tanay Blog
+Hello my name is Tanay Ollalwar
