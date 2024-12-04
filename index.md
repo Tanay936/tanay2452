@@ -15,7 +15,7 @@ Hide: true
 <br>
 <br>
 
-<img src="https://media.istockphoto.com/id/1477430966/photo/woman-preparing-quinoa-vegetable-mix-cooked-in-a-frying-pan.jpg?s=612x612&w=0&k=20&c=eGlflJ8A7Kg8SbidqJxDp9hzbG0ETt3saS7Z4Sf250g=" width="250" height="250">
+<img src="https://media.istockphoto.com/id/1477430966/photo/woman-preparing-quinoa-vegetable-mix-cooked-in-a-frying-pan.jpg?s=612x612&w=0&k=20&c=eGlflJ8A7Kg8SbidqJxDp9hzbG0ETt3saS7Z4Sf250g=" width="250" height="250" class="center">
 <br>
 <br>
 <br>
