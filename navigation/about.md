@@ -36,7 +36,7 @@ permalink: /about/
 <br>
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1920px-Flag_of_India.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1920px-Flag_of_India.svg.png" width="750" height="500">
 
 <br>
 <br>
