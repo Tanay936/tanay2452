@@ -38,3 +38,9 @@ permalink: /about/
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1920px-Flag_of_India.svg.png">
 
+<br>
+<br>
+<br>
+<p align="center">
+<img src="https://shwetainthekitchen.com/wp-content/uploads/2020/03/IMG_7944-scaled.jpg">">
+
