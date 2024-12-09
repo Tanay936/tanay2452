@@ -35,3 +35,7 @@ permalink: /about/
 <br>
 <br>
 
+<p align="center">
+<img src="<p align="center">
+<img src="https://www.lookoutvt.com/wp-content/uploads/2023/06/AdobeStock_593082107-scaled-e1692656084718.jpeg" width="250" height="250">
+</p>
