@@ -47,5 +47,7 @@ permalink: /about/
 
 <p align="center">
 <img src="https://shwetainthekitchen.com/wp-content/uploads/2020/03/IMG_7944-scaled.jpg" width="500" height="500">
-<br>
+
+<br><br><br>
+
 My favorite food
