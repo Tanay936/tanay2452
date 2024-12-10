@@ -27,7 +27,7 @@ permalink: /about/
 <br>
 
 <p align="center">
-<img src="https://www.lookoutvt.com/wp-content/uploads/2023/06/AdobeStock_593082107-scaled-e1692656084718.jpeg" width="500" height="600">
+<img src="https://www.lookoutvt.com/wp-content/uploads/2023/06/AdobeStock_593082107-scaled-e1692656084718.jpeg" width="500" height="500">
 </p>
 
 <br>
