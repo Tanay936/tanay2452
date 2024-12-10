@@ -11,7 +11,7 @@ permalink: /about/
 <br><br>
 
 <p align="center">
-<img src="https://magazine.fortevillageresort.com/wp-content/uploads/2022/01/tennis-770x513.jpg" width="250" height="250">
+<img src="https://magazine.fortevillageresort.com/wp-content/uploads/2022/01/tennis-770x513.jpg" width="400" height="400">
 </p>
 
 <br>
