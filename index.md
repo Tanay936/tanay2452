@@ -30,7 +30,7 @@ Hide: true
 
 <img src="https://shwetainthekitchen.com/wp-content/uploads/2020/03/IMG_7944-scaled.jpg" width="350" height="400">
 
-<img src="https://www.lookoutvt.com/wp-content/uploads/2023/06/AdobeStock_593082107-scaled-e1692656084718.jpeg" width="475" height="400">
+<img src="https://www.lookoutvt.com/wp-content/uploads/2023/06/AdobeStock_593082107-scaled-e1692656084718.jpeg" width="400" height="400">
 
 <br>
 <h1>My favorite food</h1>
