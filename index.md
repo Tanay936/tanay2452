@@ -30,10 +30,9 @@ Hide: true
 
  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="tanay2452/_notebooks/Foundation/B-tools_and_equipment/2023-08-22-devops_tools-verify.ipynb" style="text-decoration: none;">
-        <div style="background-color: #4d59db; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-        Notebook
-    
-        </div>
+        <div style="background-color: #4d59db; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">Notebook
+     
+</div>
     </a>
 </div>
 </div>
