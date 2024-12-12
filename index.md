@@ -14,10 +14,10 @@ Hide: true
 
 <div class="row">
     <div class="column">
-<img src="https://magazine.fortevillageresort.com/wp-content/uploads/2022/01/tennis-770x513.jpg" width="400" height="400">
+<img src="https://magazine.fortevillageresort.com/wp-content/uploads/2022/01/tennis-770x513.jpg" width="400" height="450">
 
 
-<img src="https://media.istockphoto.com/id/1477430966/photo/woman-preparing-quinoa-vegetable-mix-cooked-in-a-frying-pan.jpg?s=612x612&w=0&k=20&c=eGlflJ8A7Kg8SbidqJxDp9hzbG0ETt3saS7Z4Sf250g=" width="400" height="400" >
+<img src="https://media.istockphoto.com/id/1477430966/photo/woman-preparing-quinoa-vegetable-mix-cooked-in-a-frying-pan.jpg?s=612x612&w=0&k=20&c=eGlflJ8A7Kg8SbidqJxDp9hzbG0ETt3saS7Z4Sf250g=" width="450" height="400" >
 
 </div>
 
@@ -30,7 +30,7 @@ Hide: true
 
 <img src="https://shwetainthekitchen.com/wp-content/uploads/2020/03/IMG_7944-scaled.jpg" width="400" height="400">
 
-<img src="https://www.lookoutvt.com/wp-content/uploads/2023/06/AdobeStock_593082107-scaled-e1692656084718.jpeg" width="400" height="400">
+<img src="https://www.lookoutvt.com/wp-content/uploads/2023/06/AdobeStock_593082107-scaled-e1692656084718.jpeg" width="500" height="400">
 
 <br>
 My favorite food
