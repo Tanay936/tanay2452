@@ -8,6 +8,9 @@ Hide: true
 
 <br><br><BR>
 
+<div class="row">
+    <div class="column">
+
 <a href="https://github.com/Tanay936">
 <button>Github</button>
 </a>
@@ -15,3 +18,5 @@ Hide: true
 <a href="https://github.com/Tanay936/tanay2452/">
 <button>Github Repository</button>
 </a>
+
+</div>
