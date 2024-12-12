@@ -31,6 +31,7 @@ Hide: true
  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="https://nighthawkcoders.github.io/portfolio_2025/devops/tools/verify" style="text-decoration: none;">
         <div style="background-color: #4d59db; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">Notebook
+        </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="/john_2025/snake" style="text-decoration: none;">
