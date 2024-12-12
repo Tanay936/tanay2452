@@ -15,7 +15,6 @@ Hide: true
 <button>Github</button>
 </a>
 
-<BR><BR><BR>
 
 <a href="https://github.com/Tanay936/tanay2452/">
 <button>Github Repository</button>
