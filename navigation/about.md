@@ -8,4 +8,4 @@ Hide: true
 idont know what to but here
 
 
-<img src="/images/my-painting.png">
+<img src="/tanay2452/images/my-painting.png">
