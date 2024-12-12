@@ -43,9 +43,13 @@ Hide: true
 
 <br><br><br>
 
-<a href="https://www.youtube.com/">
-<button style="background-color:red; border-color:blue; color:white">My favorite social media platform</button>
-</a>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="https://www.youtube.com/" style="text-decoration: none;">
+        <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+        My favorite social media platform
+        </div>
+    </a>
+</div>
 
 <h1 style= "color:white;text-align:center">  Some of my paintings </h1>
 <br><br><br>
