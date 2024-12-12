@@ -44,7 +44,7 @@ My favorite food
 <br><br><br>
 
 <a href="https://www.youtube.com/">
-<button style=“background-color:red;border-color:red;color:red”>My favorite social media platform</button>
+<button>My favorite social media platform</button>
 </a>
 
 <h1 style= "color:white;text-align:center">  Some of my paintings </h1>
