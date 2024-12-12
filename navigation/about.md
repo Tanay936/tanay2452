@@ -4,7 +4,7 @@ title: About page
 description: Home page 
 Hide: true
 ---
-## My coding journey
+<h1 style= "color:white;text-align:center"> My coding journey </h1>
 
 <br><br><BR>
 
