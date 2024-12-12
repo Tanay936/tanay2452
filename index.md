@@ -23,3 +23,19 @@ Hide: true
 </a>
 
 </div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="https://github.com/Tanay936" style="text-decoration: none;">
+        <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+        Github
+        </div>
+    </a>
+
+
+</div><div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="https://github.com/Tanay936/tanay2452/" style="text-decoration: none;">
+        <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+        Github Repository
+        </div>
+    </a>
+</div>
