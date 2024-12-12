@@ -44,7 +44,7 @@ Hide: true
 <br><br><br>
 
 <a href="https://www.youtube.com/">
-<button>My favorite social media platform</button>
+<button style="background-color:red; border-color:blue; color:white">My favorite social media platform</button>
 </a>
 
 <h1 style= "color:white;text-align:center">  Some of my paintings </h1>
