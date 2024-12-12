@@ -33,7 +33,7 @@ Hide: true
 <img src="https://www.lookoutvt.com/wp-content/uploads/2023/06/AdobeStock_593082107-scaled-e1692656084718.jpeg" width="475" height="400">
 
 <br>
-My favorite food
+<h1>My favorite food</h1>
 
 </div>
 
