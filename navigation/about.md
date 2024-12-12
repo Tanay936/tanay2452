@@ -4,8 +4,7 @@ title: About page
 description: Home page 
 Hide: true
 ---
-
-idont know what to but here
-
+Some of my paintings
+<br><br><br>
 
 <img src="/tanay2452/images/my-painting.png">
