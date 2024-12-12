@@ -12,18 +12,7 @@ Hide: true
 
 <div class="row">
     <div class="column">
-
-<a href="https://github.com/Tanay936">
-<button>Github</button>
-</a>
-
-
-<a href="https://github.com/Tanay936/tanay2452/">
-<button>Github Repository</button>
-</a>
-
-</div>
-
+    
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="https://github.com/Tanay936" style="text-decoration: none;">
         <div style="background-color: #d4570f; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
@@ -39,3 +28,5 @@ Hide: true
         </div>
     </a>
 </div>
+</div>
+
