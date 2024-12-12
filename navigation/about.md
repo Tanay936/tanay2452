@@ -9,5 +9,5 @@ Hide: true
 <br><br><BR>
 
 <a href="https://github.com/Tanay936">
-<button>My favorite social media platform</button>
+<button>Github</button>
 </a>
