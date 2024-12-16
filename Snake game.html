@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: snake
 title: Snake game
 permalink: /snake/
 Hide: true
@@ -14,12 +14,14 @@ Hide: true
         margin-right: auto;
     }
 
-    canvas{
-        display: none;
+    canvas {
+        display: block;
+        background-color: orange; /* Add this */
         border-style: solid;
         border-width: 10px;
         border-color: #d5791d;
     }
+    
     canvas:focus{
         outline: none;
     }
