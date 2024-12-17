@@ -66,8 +66,8 @@ Hide: true
     }
 
     #setting input:checked + label{
-        background-color: #f1f1f0;
-        color: #f9f6f3;
+        background-color: #05f7a3;
+        color: #05f7a3;
     }
 </style>
 
@@ -79,7 +79,7 @@ Hide: true
     <div class="container bg-secondary" style="text-align:center;">
         <!-- Main Menu -->
         <div id="menu" class="py-4 text-light">
-            <p>Welcome to Snake, press <span style="background-color: #ed7d13; color: #f9f8f6">space</span> to begin</p>
+            <p>Welcome to Snake, press <span style="background-color: #ed7d13; color: #df5a01">space</span> to begin</p>
             <a id="new_game" class="link-alert">new game</a>
             <a id="setting_menu" class="link-alert">settings</a>
         </div>
@@ -93,7 +93,7 @@ Hide: true
         <canvas id="snake" class="wrap" width="320" height="320" tabindex="1"></canvas>
         <!-- Settings Screen -->
         <div id="setting" class="py-4 text-light">
-            <p>Settings Screen, press <span style="background-color: #e9e8e6; color: #fbfaf9">space</span> to go back to playing</p>
+            <p>Settings Screen, press <span style="background-color: #2c06ea; color: #0ee2ad">space</span> to go back to playing</p>
             <a id="new_game2" class="link-alert">new game</a>
             <br>
             <p>Speed:
@@ -271,7 +271,7 @@ Hide: true
             }
             // Repaint canvas
             ctx.beginPath();
-            ctx.fillStyle = "royalblue";
+            ctx.fillStyle = "darkorange";
             ctx.fillRect(0, 0, canvas.width, canvas.height);
             // Paint snake
             for(let i = 0; i < snake.length; i++){
@@ -331,7 +331,7 @@ Hide: true
         /* Dot for Food or Snake part */
         /////////////////////////////////////////////////////////////
         let activeDot = function(x, y){
-            ctx.fillStyle = "#FFFFFF";
+            ctx.fillStyle = "#000000";
             ctx.fillRect(x * BLOCK, y * BLOCK, BLOCK, BLOCK);
         }
         /* Random food placement */
@@ -366,8 +366,8 @@ Hide: true
         /////////////////////////////////////////////////////////////
         let setWall = function(wall_value){
             wall = wall_value;
-            if(wall === 0){screen_snake.style.borderColor = "#FFFFFF";}
-            if(wall === 1){screen_snake.style.borderColor = "#FFFFFF";}
+            if(wall === 0){screen_snake.style.borderColor = "#000000";}
+            if(wall === 1){screen_snake.style.borderColor = "#000000";}
         }
     })();
 </script>
