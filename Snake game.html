@@ -79,7 +79,7 @@ Hide: true
     <div class="container bg-secondary" style="text-align:center;">
         <!-- Main Menu -->
         <div id="menu" class="py-4 text-light">
-            <p>Welcome to Snake, press <span style="background-color: #ed7d13; color: #df5a01">space</span> to begin</p>
+            <p>Welcome to Snake, press <span style="background-color: #ed7d13; color: #fbfaf9">space</span> to begin</p>
             <a id="new_game" class="link-alert">new game</a>
             <a id="setting_menu" class="link-alert">settings</a>
         </div>
@@ -93,16 +93,22 @@ Hide: true
         <canvas id="snake" class="wrap" width="320" height="320" tabindex="1"></canvas>
         <!-- Settings Screen -->
         <div id="setting" class="py-4 text-light">
-            <p>Settings Screen, press <span style="background-color: #2c06ea; color: #0ee2ad">space</span> to go back to playing</p>
+            <p>Settings Screen, press <span style="background-color: #000000; color: #f6f9f8">space</span> to go back to playing</p>
             <a id="new_game2" class="link-alert">new game</a>
             <br>
             <p>Speed:
-                <input id="speed1" type="radio" name="speed" value="120" checked/>
-                <label for="speed1">Slow</label>
-                <input id="speed2" type="radio" name="speed" value="75"/>
-                <label for="speed2">Normal</label>
-                <input id="speed3" type="radio" name="speed" value="35"/>
-                <label for="speed3">Fast</label>
+                <input id="speed1" type="radio" name="speed" value="200"/>
+                <label for="speed1">Peaceful | </label>
+                <input id="speed2" type="radio" name="speed" value="150"/>
+                <label for="speed2">Ehh | </label>
+                <input id="speed3" type="radio" name="speed" value="100"/>
+                <label for="speed3">ooo a little fast | </label>
+                <input id="speed4" type="radio" name="speed" value="75"/>
+                <label for="speed4">faster | </label>
+                <input id="speed5" type="radio" name="speed" value="45"/>
+                <label for="speed5">Hardcore | </label>
+                <input id="speed6" type="radio" name="speed" value="10"/>
+                <label for="speed6">Impossible</label>
             </p>
             <p>Wall:
                 <input id="wallon" type="radio" name="wall" value="1" checked/>
