@@ -61,7 +61,7 @@ Hide: true
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="/csse/javascript/fundamentals/iteration/hw" style="text-decoration: none;">
+    <a href="location.href='/csse/javascript/fundamentals/iteration/hw'" style="text-decoration: none;">
         <div style="background-color: #000000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
         My favorite social media platform
         </div>
