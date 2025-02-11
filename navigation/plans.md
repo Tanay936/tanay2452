@@ -5,4 +5,4 @@ description: 2D shooter game
 Hide: true
 ---
 
-![My Image](Flowcart.png)
+![My Image](/Users/tanayollalwar/comsci/tanay2452/images/Flowcart.png)
