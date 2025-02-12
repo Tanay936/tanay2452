@@ -12,7 +12,7 @@ Hide: true
 <img src="/tanay2452/images/sprite.png">
 <br><br><br><br>
 
-<img src="/tanay2452/images/sprite.wepb">
+<img src="/tanay2452/images/Sprite_2.png">
 <br><br><br><br>
 
 <img src="/tanay2452/images/aaravleftrun.gif">
