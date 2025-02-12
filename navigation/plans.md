@@ -9,6 +9,9 @@ Hide: true
 <img src="https://private-user-images.githubusercontent.com/188913495/409418891-0d7b4666-1083-4940-9376-83965e77a684.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkzMDQ2MDIsIm5iZiI6MTczOTMwNDMwMiwicGF0aCI6Ii8xODg5MTM0OTUvNDA5NDE4ODkxLTBkN2I0NjY2LTEwODMtNDk0MC05Mzc2LTgzOTY1ZTc3YTY4NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIxMVQyMDA1MDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZTAzNzM5OTA0NjI2YzEwYTgwNGI0NGY0MWJjYjcwNmNiODE2MGQ5NmQ2NGE4Y2ZkNDVlNDdmNzkzOWY4NDYzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.H7dGiH-6UABJFxvr3dWH_hIW1GUeAHt74fhZGsREiRc" width="550" height="450" >
 
 
-<img src="https://files.slack.com/files-tmb/T05N4AYDXAM-F08CK6UFJHK-8e2b1a0958/image_720.png" width="450" height="450">
-
-<img src="https://files.slack.com/files-tmb/T05N4AYDXAM-F08C7L64U95-1e52897637/dall__e_2025-02-10_12.07.54_-_a_pixel_art_three-frame_sprite_sheet_of_a_character_with_black_hair__where_each_frame_is_different._the_character_should_have_slight_variations_in_sta_720.png" width="450" height="450">
+<img src="/tanay2452/images/sprite.png">
+<img src="/tanay2452/images/sprite.wepb">
+<img src="/tanay2452/images/aaravleftrun.gif">
+<img src="/tanay2452/images/aaravrightrun.gif">
+<img src="/tanay2452/images/">
+<img src="/tanay2452/images/my-painting.png">
