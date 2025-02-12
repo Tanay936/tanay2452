@@ -1,6 +1,6 @@
 ---
 layout: base
-title: RPG Game
+title: Game planing
 description: 2D shooter game
 Hide: true
 ---
