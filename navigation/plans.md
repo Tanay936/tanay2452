@@ -9,3 +9,5 @@ Hide: true
 
 
 <img src="https://files.slack.com/files-tmb/T05N4AYDXAM-F08CK6UFJHK-8e2b1a0958/image_720.png" width="450" height="450">
+
+<img src="https://files.slack.com/files-tmb/T05N4AYDXAM-F08C7L64U95-1e52897637/dall__e_2025-02-10_12.07.54_-_a_pixel_art_three-frame_sprite_sheet_of_a_character_with_black_hair__where_each_frame_is_different._the_character_should_have_slight_variations_in_sta_720.png" width="450" height="450">
