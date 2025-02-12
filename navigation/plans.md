@@ -10,8 +10,18 @@ Hide: true
 
 
 <img src="/tanay2452/images/sprite.png">
+<br><br><br><br>
+
 <img src="/tanay2452/images/sprite.wepb">
+<br><br><br><br>
+
 <img src="/tanay2452/images/aaravleftrun.gif">
+<br><br><br><br>
+
 <img src="/tanay2452/images/aaravrightrun.gif">
-<img src="/tanay2452/images/">
-<img src="/tanay2452/images/my-painting.png">
+<br><br><br><br>
+
+<img src="/tanay2452/images/New_Piskel.gif">
+<br><br><br><br>
+
+<img src="/tanay2452/images/Ruhaan_Idle.gif">
