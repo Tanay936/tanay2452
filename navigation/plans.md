@@ -5,7 +5,7 @@ description: 2D shooter game
 Hide: true
 ---
 
-<h3>Me and my teamate Aarav, decided to work on the first level of Mr. Motensons rpg game. We have a total of 3 npc and one hero charecter. Our game idea was that the charecter would be walking around in a scyber-punk destopian setting. Their would be a total of 5 quetion all over the page with the npc's and in different foods. When you are done with the quetion about Aarav Lohiya and Tanay Ollalwar, you will get a food. When you colect the 5 foods we feed it to the fat guy, and after you give the fat guy all of the foods you will go to the next level the platformer game.</h3>
+<h3>Me and my teamate Aarav, decided to work on the first level of Mr. Motensons rpg game. We have a total of 2 npc and one hero charecter. Our game idea was that the charecter would be walking around in a scyber-punk destopian setting. Their would be a total of 5 quetion all over the page with the npc's and in different foods. When you are done with the quetion about Aarav Lohiya and Tanay Ollalwar, you will get a food. When you colect the 5 foods we feed it to the fat guy, and after you give the fat guy all of the foods you will go to the next level the platformer game.</h3>
 <br><br><br><br><br><br>
 
 <h1>Flowchart</h1>
