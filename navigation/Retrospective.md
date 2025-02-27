@@ -1,4 +1,8 @@
-
+---
+layout: base
+title: Retrospective Final Exam
+Hide: true
+---
 
 Hello, My name is Tanay Ollalwar and this is my final exam for computer science.
 <br>
