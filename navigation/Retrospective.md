@@ -12,4 +12,4 @@ Over the past 12 weeks, I have learned how to install and use various tools such
 <br><br><br>
 <h1>RPG Game Tinkers</h1>
 <br>
-1: 
+1: For tinker nuber one we 
