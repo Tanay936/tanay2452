@@ -12,4 +12,9 @@ Over the past 12 weeks, I have learned how to install and use various tools such
 <br><br><br>
 <h1>RPG Game Tinkers</h1>
 <br>
-1: For tinker nuber one we 
+
+
+
+<h2>This is my flowchart</h2>
+<br>
+<img src="https://github.com/user-attachments/assets/09674c9f-62f4-48d7-8a9c-61bd0e82c352" width="1000" height="750" >
