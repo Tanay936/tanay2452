@@ -18,3 +18,7 @@ Over the past 12 weeks, I have learned how to install and use various tools such
 <h2>This is my flowchart</h2>
 <br>
 <img src="https://github.com/user-attachments/assets/09674c9f-62f4-48d7-8a9c-61bd0e82c352" width="1000" height="750" >
+
+<br><br><br>
+<h1>Reflection</h1>
+In the future, I plan to major in Computer Science in college and pursue a career as a software engineer, inspired by both of my parents, who are software engineers themselves. I admire them greatly and aspire to follow in their footsteps because I find software engineering fascinating. At school, I intend to take both the AP Computer Science Principles (CSP) and the AP Computer Science A (CSA) courses to build a solid foundation. In terms of strengths and weaknesses, I believe that working with others and explaining concepts to others are areas where I can improve. On the other hand, I excel at leadership, especially when working in shared repositories, as I enjoy taking charge and organizing collaborative efforts Overall on the Fial exam I believe I deserve a 97%. I effectively communicated my ideas and did a great job on the game itself. However, I didn’t give myself a perfect score because I recognize that there is always room for improvement and growth, even in my best efforts.
